@@ -246,6 +246,7 @@
 - Bio: Tech support by day, learning to code at night!
 - Programming Language: JavaScript, Python, Rust
 
-### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
-- Bio: I'm Web Java Developer with Experience in Eclipse RCP.
-- Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [sanduni-E](https://github.com/sanduni-E)
+- Bio: I'm Web  Developer ,student, computer science undergraduate.
+- Programming Language: Java, Python ,C,JavaScript 
